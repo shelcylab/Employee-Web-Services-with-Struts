@@ -1,0 +1,11 @@
+interfaces\ObjectFactory.class
+my\actions\EmpDetailsAction.class
+services\IEmployeeDetailService.class
+interfaces\package-info.class
+services\EmployeeDetailServiceService.class
+interfaces\Employee.class
+interfaces\GetEmployeeDetailsResponse.class
+com\mycompany\employeestrutsclientapp\resources\JavaEE8Resource.class
+my\forms\EmpDetailsForm.class
+interfaces\GetEmployeeDetails.class
+com\mycompany\employeestrutsclientapp\JAXRSConfiguration.class
